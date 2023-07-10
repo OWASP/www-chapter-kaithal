@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Piyush Bedi](mailto:piyush.bedi@owasp.org)
+* [Dhairya Khanduja](mailto:dhairya.khanduja@owasp.org)
+* [Aayush Khurana](mailto:aayush.khurana@owasp.org)
