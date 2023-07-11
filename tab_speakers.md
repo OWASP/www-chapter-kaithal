@@ -9,7 +9,7 @@ tags: OWASP Kaithal
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP SRM meetup? [Contact Us](mailto:piyush.bedi@owasp.org)
+Would you like to speak on the upcoming OWASP Kaithal meetup? [Contact Us](mailto:piyush.bedi@owasp.org)
 
 **Email Format :**
 
