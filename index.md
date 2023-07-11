@@ -9,7 +9,7 @@ meetup-group:
 ---
 
 ## Welcome
-OWASP Kaithal is a initiative taken by local people to increase awareness about cybersecurity.
+OWASP Kaithal is an outstanding grassroots initiative driven by passionate local individuals who are dedicated to amplifying awareness about the critical importance of cybersecurity in our community.
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
