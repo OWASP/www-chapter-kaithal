@@ -1,4 +1,3 @@
-
 ---
 
 layout: col-sidebar
@@ -8,6 +7,7 @@ region: Asia
 meetup-group:
 
 ---
+
 ## Welcome
 OWASP Kaithal is a initiative taken by local people to increase awareness about cybersecurity.
 ## Participation
