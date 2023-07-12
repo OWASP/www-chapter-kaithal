@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: 𝕆𝕎𝔸𝕊ℙ 𝕂𝔸𝕀𝕋ℍ𝔸𝕃
+title: [![Arabic fonts](https://see.fontimg.com/api/renderfont4/BWw2G/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/T1dBU1AgS2FpdGhhbA/persian.png)](https://www.fontspace.com/category/arabic)
 tags: OWASP Kaithal
 region: Asia
 meetup-group:
