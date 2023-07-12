@@ -1,6 +1,6 @@
 ---
 title: speakers
-displaytext: Speakers
+displaytext: Call for Speakers
 layout: null
 tab: true
 order: 1
