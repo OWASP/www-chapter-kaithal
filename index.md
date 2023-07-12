@@ -7,6 +7,7 @@ region: Asia
 meetup-group:
 
 ---
+<a href="https://www.fontspace.com/category/arabic"><img src="https://see.fontimg.com/api/renderfont4/BWw2G/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/T1dBU1AgS2FpdGhhbA/persian.png" alt="Arabic fonts"></a>
 ## Welcome
 OWASP Kaithal is an outstanding grassroots initiative driven by passionate local individuals who are dedicated to amplifying awareness about the critical importance of cybersecurity in our community.
 ## Participation
