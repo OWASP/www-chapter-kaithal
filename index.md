@@ -7,8 +7,6 @@ region: Asia
 meetup-group:
 
 ---
-<iframe src="https://free.timeanddate.com/clock/i8xl7f9v/n176/tlin/fn6/fs16/fc9ff/tc000/ftb/bas2/bat1/bacfff/pa8/tt0/tw1/th1/ta1/tb4" frameborder="0" width="248" height="58"></iframe>
-
 ## Welcome
 OWASP Kaithal is an outstanding grassroots initiative driven by passionate local individuals who are dedicated to amplifying awareness about the critical importance of cybersecurity in our community.
 ## Participation
