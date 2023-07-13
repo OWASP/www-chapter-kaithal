@@ -13,6 +13,7 @@ We are a group of passionate college students on a mission to spread Cyber Aware
 
 Next Meeting/Event 
 ---------------------
+{% comment %}
 {% include chapter_events.html group=page.meetup-group %}
-
+{% endcomment %}
 
