@@ -7,4 +7,6 @@ order: 4
 tags: OWASP Kaithal
 ---
 
-Updates coming soon..
+|  | Date        | Event Name |   Venue    | Speaker(s)  | Resources |
+| ----------- | ----------- | -----------| -----------| ----------- |  ----------- |
+| 0x00 | 10/07/2023 | Inauguration | Online |  |  |
