@@ -9,4 +9,4 @@ tags: OWASP Kaithal
 
 |  | Date        | Event Name |   Venue    | Speaker(s)  | Resources |
 | ----------- | ----------- | -----------| -----------| ----------- |  ----------- |
-| 0x00 | 10/07/2023 | Inauguration | Online |  |  |
+| 0x00 | 11/07/2023 | Inauguration | Online |  |  |
