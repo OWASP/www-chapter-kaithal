@@ -1,4 +1,4 @@
-### Upcoming event
+### Upcoming Events
 * 0x00 | Inauguration
 
 ### Chapter Location
@@ -6,5 +6,13 @@
 
 ### Social Links
 * [Meetup](#)
+* [Medium](#)
+* [Instagram](#)
+* [Twitter](#)
+* [Linkedin](#)
+* [Vimeo](#)
+* [Whatsapp](#)
+* [Telegram](#)
+
 
 
