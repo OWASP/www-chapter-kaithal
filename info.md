@@ -1,6 +1,5 @@
 ### Upcoming Events
-*  0x01  | Beginner Bounty Series | <a href="https://meet.google.com/czx-jzsa-zez" target="_blank">Google Meet </a>
-* Sunday | 16\07\2023 | 18:00 - 19:00 [IST]
+Will be updated soon..
 
 ### Social Links
 * [MeetUp](https://www.meetup.com/owasp-kaithal-chapter/)
