@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Kaithal
 tags: OWASP Kaithal
 region: Asia
+country: India
 meetup-group: owasp-kaithal-chapter
 
 ---
